@@ -1,2 +1,2 @@
-# wetuyapp
+# WeTuy
 WeTuy Application
