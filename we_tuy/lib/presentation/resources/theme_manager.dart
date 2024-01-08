@@ -45,11 +45,11 @@ ThemeData getApplicationTheme() {
 
       // Text theme
       textTheme: TextTheme(
-          headline1: getSemiBoldStyle(
+          displayLarge: getSemiBoldStyle(
               color: ColorManager.darkGrey, fontSize: FontSize.s16),
-          headline2: getRegularStyle(
+          displayMedium: getRegularStyle(
               color: ColorManager.white, fontSize: FontSize.s16),
-          headline3:
+          displaySmall:
               getBoldStyle(color: ColorManager.primary, fontSize: FontSize.s16),
           headline4: getRegularStyle(
               color: ColorManager.primary, fontSize: FontSize.s14),
